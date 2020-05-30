@@ -11,3 +11,7 @@ You can also run these as docker containers instead.  To run type:
 docker build .    
 docker run <WHATEVER IMAGE ID DOCKER BUILD GAVE YOU>    
 Then head over to localhost:3000 to start the app
+
+# Kubernetes
+
+Kuber is next
